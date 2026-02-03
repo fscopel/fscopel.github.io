@@ -1,4 +1,4 @@
-##Privacy Policy
+## Privacy Policy
 
 Last updated: 02.02.2026
 Sensor Explorer does not collect, store, use, or share any personal or sensitive user data.
