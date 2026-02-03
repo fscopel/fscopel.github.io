@@ -1,4 +1,8 @@
-Privacy Policy
+layout: page
+title: "Sensor Explorer - Privacy Policy"
+permalink: /privacy-policy/sensor-explorer
+
+## Privacy Policy
 
 Last updated: 02.02.2026
 
