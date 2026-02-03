@@ -1,8 +1,8 @@
-{
-  layout: page
-  title: "Sensor Explorer - Privacy Policy"
-  permalink: /privacy/sensor-explorer
-}
+---
+layout: page
+title: "Sensor Explorer - Privacy Policy"
+permalink: /privacy/sensor-explorer/
+---
 
 ## Privacy Policy
 
