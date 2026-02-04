@@ -1,0 +1,148 @@
+---
+layout: default
+title: Contact | Fabio Scopel
+description: Get in touch to discuss your project. I'm available for freelance software development, consulting, and technical advisory services.
+---
+
+<section class="contact-page">
+    <div class="contact-container">
+        <div class="contact-info">
+            <span class="section-label">Get in Touch</span>
+            <h1>Let's Build Something Great Together</h1>
+            <p>
+                Have a project in mind? I'd love to hear about it. Fill out the form
+                or reach out directly, and I'll get back to you within 24 hours.
+            </p>
+
+            <div class="contact-methods">
+                <div class="contact-method">
+                    <div class="contact-method-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="contact-method-text">
+                        <h4>Email</h4>
+                        <p>fabiodev404@gmail.com</p>
+                    </div>
+                </div>
+
+                <div class="contact-method">
+                    <div class="contact-method-icon">
+                        <i class="fab fa-github"></i>
+                    </div>
+                    <div class="contact-method-text">
+                        <h4>GitHub</h4>
+                        <p>github.com/fscopel</p>
+                    </div>
+                </div>
+
+                <div class="contact-method">
+                    <div class="contact-method-icon">
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                    <div class="contact-method-text">
+                        <h4>LinkedIn</h4>
+                        <p>linkedin.com/in/fscopel</p>
+                    </div>
+                </div>
+
+                <div class="contact-method">
+                    <div class="contact-method-icon">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="contact-method-text">
+                        <h4>Location</h4>
+                        <p>Available for Remote Work Worldwide</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="glass-card contact-form-card">
+            <form
+                action="https://formspree.io/f/xyzgvwkl"
+                method="POST"
+                class="contact-form"
+            >
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="name">Full Name *</label>
+                        <input
+                            type="text"
+                            id="name"
+                            name="name"
+                            required
+                            placeholder="John Doe"
+                        >
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email Address *</label>
+                        <input
+                            type="email"
+                            id="email"
+                            name="email"
+                            required
+                            placeholder="john@example.com"
+                        >
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="company">Company</label>
+                        <input
+                            type="text"
+                            id="company"
+                            name="company"
+                            placeholder="Your Company"
+                        >
+                    </div>
+                    <div class="form-group">
+                        <label for="budget">Budget Range</label>
+                        <select id="budget" name="budget">
+                            <option value="">Select budget range</option>
+                            <option value="5k-10k">$5,000 - $10,000</option>
+                            <option value="10k-25k">$10,000 - $25,000</option>
+                            <option value="25k-50k">$25,000 - $50,000</option>
+                            <option value="50k+">$50,000+</option>
+                            <option value="hourly">Hourly Rate Preferred</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="project-type">Project Type *</label>
+                    <select id="project-type" name="project_type" required>
+                        <option value="">Select project type</option>
+                        <option value="web-app">Web Application</option>
+                        <option value="mobile-app">Mobile Application</option>
+                        <option value="api">API Development</option>
+                        <option value="cloud">Cloud Architecture</option>
+                        <option value="consulting">Technical Consulting</option>
+                        <option value="code-review">Code Review / Audit</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Project Details *</label>
+                    <textarea
+                        id="message"
+                        name="message"
+                        required
+                        placeholder="Tell me about your project, goals, timeline, and any specific requirements..."
+                    ></textarea>
+                </div>
+
+                <input type="hidden" name="_subject" value="New Project Inquiry from Portfolio">
+                <input type="text" name="_gotcha" style="display:none">
+
+                <div class="form-submit">
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">
+                        <i class="fas fa-paper-plane"></i>
+                        Send Message
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
