@@ -1,23 +1,58 @@
-## Privacy Policy
+# Fabio Scopel - Portfolio
 
-Last updated: 02.02.2026
-Sensor Explorer does not collect, store, use, or share any personal or sensitive user data.
+Professional software engineering portfolio and contractor website.
 
-### Data Collection
-We do not collect any personal information, usage data, device information, or identifiers from users of this app.
+## Live Site
 
-### Data Sharing
-We do not share any data with third parties, companies, organizations, or services.
+[https://fscopel.github.io](https://fscopel.github.io)
 
-### Data Storage and Security
-Because no user data is collected, no user data is stored or transmitted.
+## Tech Stack
 
-### Children’s Privacy
-This app does not knowingly collect any personal information from children.
+- **Framework:** Jekyll (GitHub Pages)
+- **Design:** Custom glassmorphism (Apple glass) theme
+- **CSS:** Custom CSS with CSS variables
+- **Contact Form:** Formspree
+- **Icons:** Font Awesome
+- **Typography:** Inter (Google Fonts)
 
-### Changes to This Policy
-If the app’s data practices change in the future, this privacy policy will be updated accordingly.
+## Local Development
 
-### Contact
-If you have any questions about this privacy policy, you may contact the developer at:
-fabiodev404@gmail.com
+```bash
+# Install dependencies
+bundle install
+
+# Run local server
+bundle exec jekyll serve
+
+# Site will be available at http://localhost:4000
+```
+
+## Structure
+
+```
+.
+├── _config.yml          # Jekyll configuration
+├── _layouts/            # Page templates
+│   └── default.html     # Base layout
+├── _includes/           # Reusable components
+│   ├── header.html      # Navigation header
+│   └── footer.html      # Site footer
+├── assets/
+│   ├── css/
+│   │   └── main.css     # Main stylesheet
+│   └── js/
+│       └── main.js      # JavaScript
+├── index.html           # Homepage
+├── contact.html         # Contact page
+└── privacy-policy.md    # Privacy policy
+```
+
+## Contact
+
+- Email: fabiodev404@gmail.com
+- GitHub: [github.com/fscopel](https://github.com/fscopel)
+- LinkedIn: [linkedin.com/in/fscopel](https://linkedin.com/in/fscopel)
+
+## License
+
+All rights reserved.

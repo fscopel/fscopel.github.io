@@ -1,0 +1,47 @@
+# Site Settings
+title: Fabio Scopel | Software Engineer
+description: Expert software engineering contractor specializing in full-stack development, mobile apps, cloud architecture, and scalable solutions.
+url: "https://fscopel.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: Fabio Scopel
+  email: fabiodev404@gmail.com
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Sass
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
