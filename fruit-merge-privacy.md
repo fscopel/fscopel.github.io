@@ -6,7 +6,7 @@ permalink: /privacy/fruit-merge/
 
 Last updated: September 15, 2026
 
-Fruit Merge is an offline puzzle game provided by CoffeeCup Dev. This policy applies to the Android app with package name `com.fscopel.fruitmerge`.
+Fruit Merge is an offline puzzle game provided by CoffeeCup Dev. This policy applies to the Android app with package name `com.fabiodev404.fruitmerge`.
 
 ### Information collected and shared
 
