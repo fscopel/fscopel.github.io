@@ -20,7 +20,7 @@ You can erase this local information through Android's app-storage settings or b
 
 ### Children's privacy
 
-Fruit Merge is intended for players of all ages, including children. The game does not collect personal information from children or other players and does not include ads, chat, or purchases.
+Fruit Merge is intended for players ages 13 and up and is not directed at children under 13. The game does not collect personal information from any player and does not include ads, chat, or purchases.
 
 ### Support
 
