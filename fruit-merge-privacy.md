@@ -10,7 +10,7 @@ Fruit Merge is a puzzle game provided by CoffeeCup Dev. This policy applies to t
 
 ### Your choices and age
 
-The game is intended for adults ages 18 and up and is not directed at children or teens. Online scores and analytics are offered only to players who indicate they are 18 or older. Both are off by default and can be enabled separately in **High Scores > Online options**. We keep the age-group choice on your device; we do not request or send a birth date or identity document. Choosing not to share does not restrict the offline game or local scores.
+The game is intended for ages 13 and up and is not directed at children under 13. Online scores and analytics are offered only to players who indicate they are 18 or older. Both are off by default and can be enabled separately in **High Scores > Online options**. We keep the age-group choice on your device; we do not request or send a birth date or identity document. Choosing not to share does not restrict the offline game or local scores.
 
 ### Local progress and records
 
